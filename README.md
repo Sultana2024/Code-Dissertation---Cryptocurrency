@@ -1,2 +1,2 @@
-# Code-Dissertation---Cryptocurrency
+# Code Dissertation - Cryptocurrency
 Dissertation Code Base
