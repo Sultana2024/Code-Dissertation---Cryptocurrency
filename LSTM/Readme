@@ -1,1 +1,10 @@
 
+
+1. BTC Baseline LSTM (Garcia)
+2. BTC Classification LSTM (first trial)
+3. BTC Optuna LSTM 
+4. BTC Gridsearch LSTM 
+5. BTC Optimised LSTM (regression)
+6. LTC Optimised LSTM (regression)
+7. ETH Optimised LSTM (regression)
+8. XRP Optimised LSTM (regression)
