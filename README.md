@@ -1,4 +1,4 @@
-# Cryptocurrency-Price-Prediction
+# Cryptocurrency Price Prediction
 
 This repository includes the code files for the MSc Data Science (FT) Project: Prediction of Cryptocurrency prices 
 
