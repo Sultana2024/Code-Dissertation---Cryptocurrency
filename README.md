@@ -1,2 +1,14 @@
-# Code Dissertation - Cryptocurrency
-Dissertation Code Base
+# Cryptocurrency-Price-Prediction
+
+## Overview 
+
+## Abstract 
+
+## Dataset 
+
+## Models 
+
+## Implementation 
+
+## Results 
+
