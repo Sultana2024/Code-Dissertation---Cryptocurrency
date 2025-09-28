@@ -1,4 +1,6 @@
-
+This file includes all the code files from the LSTM model development phase. 
+From 1-4, the baseline regression model was built and tuned using BTC dataset. 
+The final LSTM models for each cryptocurrency are 5-8. 
 
 1. BTC Baseline LSTM (Garcia)
 2. BTC Classification LSTM (first trial)
