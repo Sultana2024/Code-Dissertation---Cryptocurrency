@@ -2,22 +2,22 @@
 
 This repository includes the code files for the MSc Data Science (FT) Project: Prediction of Cryptocurrency prices 
 
-### Overview 
+#### Overview 
 
 
-### Dataset 
+#### Dataset 
 
 
-### Models 
+#### Models 
 
 1. LSTM model
 2. CNN-LSTM model
 3. LSTM-HMM model
 
 
-### Implementation 
+#### Implementation 
 
 
 
-### Results 
+#### Results 
 
