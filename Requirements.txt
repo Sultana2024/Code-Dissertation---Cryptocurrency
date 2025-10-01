@@ -2,4 +2,13 @@
 
 Libraries 
 
-Software/Hardware
+!pip install tensorflow
+!pip install numpy
+!pip install pandas
+!pip install hmmlearn
+!pip install pyts
+!pip install optuna
+!pip install optuna-integration[tfkeras]
+
+
+Software/Hardware - the CNN-LSTM, LSTM-HMM models were run using an A100 NVIDIA GPU hence access to a similar capacity would be required. 

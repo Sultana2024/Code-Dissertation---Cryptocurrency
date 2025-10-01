@@ -1,10 +1,9 @@
 # Cryptocurrency Price Prediction
-_____________________________________________________________________________________________________
 
 This repository includes the code files for the MSc Data Science (FT) Project: Prediction of Cryptocurrency prices 
 
+
 ## Overview 
-_____________________________________________________________________________________________________
 
 * The aim is to accurately predict the price of four cryptocurrencies (BTC, ETH, LTC, XRP) using three models: LSTM, CNN-LSTM, LSTM-HMM.
 
@@ -31,9 +30,11 @@ All three models were tuned, trained and tested. To run a model, ensure the data
 #### Results 
 
 
-Bitcoin
-Model	MSE	RMSE	MAE	MAPE	R2
-LSTM	0.002137	0.043395	0.03236	0.104505	0.4939
-CNN-LSTM	0.00694	0.08286	0.06990	0.2246	0.4671
-LSTM-HMM	0.00028	0.01679	0.01211	0.04086	0.9327
+### Bitcoin Results  
+
+| Model     | MSE      | RMSE     | MAE      | MAPE    | R²     |
+|-----------|----------|----------|----------|---------|--------|
+| LSTM      | 0.002137 | 0.043395 | 0.03236  | 0.1045  | 0.4939 |
+| CNN-LSTM  | 0.006940 | 0.082860 | 0.06990  | 0.2246  | 0.4671 |
+| LSTM-HMM  | 0.000280 | 0.016790 | 0.01211  | 0.0409  | 0.9327 |
 
