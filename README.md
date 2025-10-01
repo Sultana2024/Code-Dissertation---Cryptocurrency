@@ -8,26 +8,26 @@ This repository includes the code files for the MSc Data Science (FT) Project: P
 * The aim is to accurately predict the price of four cryptocurrencies (BTC, ETH, LTC, XRP) using three models: LSTM, CNN-LSTM, LSTM-HMM.
 
 
-### Dataset 
+## Dataset 
 
 The original dataset sourced from Kaggle was preprocessing to be used as an input for  the three models. 
 
 
-### Models 
+## Models 
 
 1. LSTM model
 2. CNN-LSTM model
 3. LSTM-HMM model
 
 
-### Implementation 
+## Implementation 
 
 Each model has 4 versions in the repository, one for each currency. The models' are tuned on the BTC dataset using Optuna (one in each model's folder). 
 
 All three models were tuned, trained and tested. To run a model, ensure the dataset is in the directory, you have access to a NVIDIA A100 GPU (or similar compute). 
 
 
-#### Results 
+## Results 
 
 
 ##### Bitcoin Results  
